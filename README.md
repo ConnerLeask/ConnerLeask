@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ConnerLeaskCancel changes
+- 👋 Hi, I’m @ConnerLeask
 - 👀 I’m interested in working on some open source projects
 - 🌱 I’m currently studying to become a software engineer
 - 💞️ I’m looking to collaborate on anything that's of interest to me
